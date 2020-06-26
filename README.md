@@ -12,5 +12,7 @@ Simple 3D reconstruction from two images of the same scene from two different vi
 6. Visualize.
 
 
+## Result
 
+![](ezgif.com-video-to-gif.gif)
 
